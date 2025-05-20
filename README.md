@@ -32,7 +32,7 @@ This project implements a deep learning model to detect pneumonia from chest X-r
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pneumonia-detection.git
+git clone https://github.com/mahmoudnasraly/pneumonia-detection.git
 cd pneumonia-detection
 ```
 
